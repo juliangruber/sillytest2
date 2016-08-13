@@ -1,0 +1,11 @@
+{
+  "name": "sillytest2",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juliangruber/sillytest2"
+  },
+  "scripts": {
+    "test": "echo OK"
+  }
+}
